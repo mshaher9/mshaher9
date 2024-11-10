@@ -1,6 +1,12 @@
 <h3 align="left">
  Welcome to My profile! <br/>
 
+<h5>I am a seasoned Full Stack Developer with 8 years of comprehensive experience in delivering high-quality web applications and data management solutions. My diverse skill set encompasses both front-end and back-end technologies, enabling me to effectively bridge the gap between design and functionality.
+
+- Front-End Technologies: Expertise in HTML, CSS, JavaScript, and modern frameworks such as React, Redux, Next, and Typescript. I am adept at creating responsive and engaging user interfaces that enhance the overall user experience.
+- Back-End Development: Proficient in a variety of programming languages and frameworks, including Node.js, Ruby on Rails, Blazor, C#, .NET, .NET Core, and ASP.NET. I excel in building robust server-side applications and APIs that meet business requirements.
+- Database Management: Strong experience in managing and optimizing databases, including MySQL, PostgreSQL, MongoDB, and Microsoft SQL Server. I ensure efficient data retrieval and storage solutions that support application performance.</h5>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mshaher9&label=Profile%20views&color=0e75b6&style=flat" alt="mshaher9"/> </p>
 
 <h3 align="left">Languages and Tools:</h3>
